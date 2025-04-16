@@ -200,7 +200,8 @@ public class ControllerCalculadora {
     	System.out.println("O numero é: "+val1);
     	System.out.println("O segundo numero é: "+val2);
     }
-
+    
+    //operação a ser feita no botão de igual
     @FXML
     void actionIgual(ActionEvent event) {
 	    
